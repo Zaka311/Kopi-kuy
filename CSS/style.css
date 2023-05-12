@@ -1,7 +1,7 @@
 /* Pengaturan Global */
 by di
 /* Mendaftarkan font ke dalam CSS, dan memberi nama family */
-@font-face {
+font-face {
    font-family: 'Poppins';
    src: url(../fonts/poppins.woff2);
 }
