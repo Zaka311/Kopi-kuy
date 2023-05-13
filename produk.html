@@ -13,10 +13,18 @@
     <script src="vendor/bootstrap/bootstrap.bundle.min.js"></script>
     <style>
         section {
-            min-height: 90vh;
+            min-height: 100vh;
         }
-        {background-color: lightpink
+        .card img {
+            height:250px;
+            
+            object-fit: cover;
         }
+        .card h5.card-title{
+            min-height: 45px;
+        }
+        
+        
     </style>
     <script src="js/jquery-3.6.3.min.js"></script>
 </head>
@@ -197,9 +205,13 @@
                         <img src="${item.foto}" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">${item.nama}</h5>
-                            <div class="row my-4">
+                            <div style="min-height: 40px"class="row my-4/div>
+                                
+                            
                                 <div class="col">
-                                    <i class="bi bi-basket"></i> ${item.size}
+                                    
+                                    
+                                    ${item.size}
                                 </div>
                                 <div class="col">
                                     ${item.harga}
