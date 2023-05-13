@@ -1,12 +1,5 @@
 {
-    "arabica": [{
-
-            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSZt8Wfvz0ie1_HpHe1UuNYb0rqPiqZ0oYQ&usqp=CAU",
-            "nama": "espresso Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
-        },
+    "arabica[
         {
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
@@ -44,6 +37,14 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSZt8Wfvz0ie1_HpHe1UuNYb0rqPiqZ0oYQ&usqp=CAU",
+            "nama":"Espresso Robusta",
+            "size":"150 Gram",
+            "harga":"125.000",
+            "link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:espresso+robusta&tbm=shop"
         }
+
     ]
 }
