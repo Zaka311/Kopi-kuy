@@ -38,7 +38,7 @@ font-size: 37px;
 h2 {
    /* mengatur ukuran huruf ke 34 pixel */
    font-size: 34px;
-   color: blue;
+   color: royalblue;
 }
 
 h3 {
@@ -66,10 +66,10 @@ img {
 
 nav {
    /* background-color mengatur warna latar belakang */
-   background-color: red;
+   background-color: royalblue;
 
    /* penulisan 2 background-color seperti ini akan mengabaikan penulisan sebelumnya */
-   background-color: #198754;
+   background-color: royalblue;
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
